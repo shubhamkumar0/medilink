@@ -44,7 +44,7 @@ class App extends Component {
           </Link>
           .
         </Text>
-        <Button onPress={() => {}} title="Test button" />
+        <Button onPress={() => {}} title="Shubham's Test button" />
       </View>
     );
   }
